@@ -1,5 +1,5 @@
 const Link = {
-    zomatoKey : '352ee7f27e57fa653a1032b1ff08455f',
+    zomatoKey : '***',
     zomatoGeocode               : 'https://developers.zomato.com/api/v2.1/geocode?',
     zomatoCuisines              : 'https://developers.zomato.com/api/v2.1/cuisines?',
     zomatoCuisinesRestaurant    : 'https://developers.zomato.com/api/v2.1/search?',
